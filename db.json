@@ -1,0 +1,29 @@
+{
+    "room": [
+        {
+            "nama": "Nasi Gadjah",
+            "foto": [
+                "https://lh5.googleusercontent.com/p/AF1QipMR0G73G785oreT7RYWWqMIlzJ0UCPTN0ATBJo=s544-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMsE8guYpJUaPqJB87jy_918V5b_5a6iB_r6ZE=s846-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMKJN009TyvmtfQ47duecwkQpfa1jgQeV22tlE=s846-k-no"
+
+            ],
+            "deskripsi": "Lorem Ipsum",
+            "aturan": ["Lorem Ipsum"],
+            "kapasitas": 50,
+            "lantai": 1
+        },
+        {
+            "nama": "DILo Depok",
+            "foto": [
+                "https://lh5.googleusercontent.com/p/AF1QipOwSU4b8fPM5UnPkO8x89V27xWapVnaXdvrQ03L=s641-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNEWHGd5NNHZQ-C0As_NaahO7xPx7UkrIMjc-Ym=s563-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOMX4P_eH_FtJlcZAwte44WSsI-aXN74Smsq-nz=s483-k-no"
+            ],
+            "deskripsi": "Lorem Ipsum",
+            "aturan": ["Lorem Ipsum"],
+            "kapasitas": 50,
+            "lantai": 1
+        },
+    ]
+}
